@@ -7,7 +7,3 @@
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I once optimized a legacy query that ran for 6 hours down to just under a minute — data magic is real!
 ```
-
-
-
---->
