@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @Comhek0369 (Harsh)
+- 👋 Hi, I’m @Comhek0369
 - 👀 I’m interested in database development, data engineering, and building scalable data-driven systems.  
 - 🌱 I’m currently learning advanced data architecture, cloud-based ETL pipelines, and exploring big data tools.  
 - 💞️ I’m looking to collaborate on SQL optimization, data pipeline projects, and open-source analytics tools.  
