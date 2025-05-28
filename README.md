@@ -1,27 +1,51 @@
-<h1 align="center">Hi 👋, I'm @Comhek0369</h1>
-<h3 align="center">I’m interested in database development, data engineering, data analysis and building scalable data-driven system</h3>
+# 👋 Hello, I'm Harsh
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=comhek0369&label=Profile%20views&color=0e75b6&style=flat" alt="comhek0369" /> </p>
+🎓 Data Enthusiast | 📊 Analyst | 🤖 Aspiring ML Engineer  
+Welcome to my GitHub profile! I'm passionate about exploring data, building insightful dashboards, and developing intelligent models to solve real-world problems.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=comhek0369" alt="comhek0369" /></a> </p>
+---
 
-- 💬 Ask me about **database development, data engineering, data analysis**
+## 🚀 About Me
 
-- 📫 How to reach me **[katariya.harsh2468@gmail.com] or connect with me on [LinkedIn] -<a href= "https://www.linkedin.com/in/harsh-katariya-658879257">LinkedIN</a>**
+- 📚 Currently diving deeper into Data Science and Machine Learning
+- 💻 Working on projects involving Python, SQL, Power BI, and Tableau
+- 📈 Interested in data analysis, forecasting, and customer analytics
+- 🌱 Always learning — currently exploring time series forecasting and model explainability (SHAP, ELI5)
+- 📫 Reach me at: [Email/LinkedIn – add your link here]
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1AG28mZeUWvlx9m4kGDHKgUgHzkb1KXsO?usp=drive_link](https://drive.google.com/drive/folders/1AG28mZeUWvlx9m4kGDHKgUgHzkb1KXsO?usp=drive_link)
+---
 
-- ⚡ Fun fact **I once optimized a legacy query that ran for 6 hours down to just under a minute — data magic is real!**
+## 🛠️ Tools & Technologies
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harsh katariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh katariya" height="30" width="40" /></a>
-<a href="https://kaggle.com/comhek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="comhek" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/comhek 0369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="comhek 0369" height="30" width="40" /></a>
-</p>
+- **Languages:** Python, SQL, R  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost  
+- **Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
+- **Machine Learning:** Scikit-learn, XGBoost, Prophet, ARIMA  
+- **Databases:** MySQL, PostgreSQL  
+- **Other:** Git, Excel, Jupyter Notebook
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=comhek0369&show_icons=true&locale=en&layout=compact" alt="comhek0369" /></p>
+## 📌 Featured Projects
+
+Here are a few projects I’ve worked on:
+
+- 🔌 **EV Charging Demand Forecasting** – Time series modeling + Tableau dashboards  
+- 📉 **Customer Churn Prediction** – ML classification model + explainability (ELI5)  
+- 💰 **Customer Lifetime Value Model** – Regression modeling + customer segmentation  
+- 👟 **Sneaker Quality Analysis** – Product grading insights using Python and Power BI  
+- 🛍️ **eCommerce Analysis** – SQL-based data aggregation and KPI dashboards
+
+> Check out my pinned repositories below to learn more!
+
+---
+
+## 📊 GitHub Stats
+
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+
+---
+
+Thanks for stopping by! Feel free to connect or collaborate on interesting data projects 😊
+
   
