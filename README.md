@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Harsh Sanjaykumar Katariya
 
-🎓 Data Enthusiast | 📊 Data Analyst | 🤖 Aspiring ML Engineer  
+🎓 Data Engineer | 📊 Data Analyst | 🤖 Aspiring ML Engineer  
 Welcome to my GitHub profile! I'm passionate about exploring data, building insightful dashboards and developing intelligent models to solve real-world problems.
 
 ---
