@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about exploring data, building insi
 ---
 
 # 💫 About Me:
-- 📚 Currently diving deeper into Data Science and Machine Learning<br>- 💻 Working on projects involving Python, SQL, Power BI and Tableau<br>- 📈 Interested in data analysis, forecasting and customer analytics<br>- 🌱 Always learning — currently exploring time series forecasting and model explainability (SHAP, ELI5)<br>- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/harsh-katariya-658879257/)
+- 📚- 💻 Working on projects involving Python, SQL, Power BI and Tableau<br>- 📈 Interested in data analysis, forecasting and customer analytics<br>- 🌱 Always learning — currently exploring time series forecasting and model explainability (SHAP, ELI5)<br>- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/harsh-katariya-658879257/)
 
 
 ## 🌐 Socials:
